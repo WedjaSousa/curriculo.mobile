@@ -1,7 +1,7 @@
 
 ## 🎓 Contexto Acadêmico
 
-Este projeto representa uma **atividade prática avaliativa** desenvolvida para a disciplina de **Coding Mobile**, com a valiosa orientação e análise do **Professor Geraldo**.
+Este projeto representa uma **atividade prática avaliativa** desenvolvida para a disciplina de **Coding Mobile**, com a orientação e análise do **Professor Geraldo**.
 
 O projeto teve como foco principal a aplicação dos seguintes conceitos fundamentais:
 
